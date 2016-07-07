@@ -1,0 +1,48 @@
+adam.dubiel:
+    name: Adam Dubiel
+    bio: 'Adam is the library guy - both when it comes to books and designing reusable software components with minimal dependencies, maximal usefulness and user friendly API. At Allegro he leads the team responsible for creating internal services-for-services and tools that make development of microservices easier.'
+    twitter: dubieladam
+
+mateusz.gajewski:
+    name: Mateusz 'Serafin' Gajewski
+    bio: 'Mateusz is a solutions architect responsible for financial and payments systems. His main areas of research interest are: scalable, distributed computing in cloud environments, reactive programming and failure resilience.'
+    twitter: wendigo
+
+tomasz.jackowiak:
+    name: Tomasz Jackowiak
+    bio: '"Been there, done that", former PHP programmer, scrum master, product owner, technical owner of marketplace platform, technical leader. Software engineer working on a search engine at Allegro. After working hours - boardsports lover, Knobel Klack pro player, traveler.'
+    twitter: kevorin
+
+mariusz.strzelecki:
+    name: Mariusz Strzelecki
+    bio: 'A software developer with 5+ years of professional experience. Now working as a Senior Data Engineer at Allegro Group, developing tools that support internal Big Data ecosystem and contributing to Open Source.'
+
+robert.mroczkowski:
+    name: Robert Mroczkowski
+    bio: 'A 2006 Master’s graduate in Computer Science at Nicolaus Copernicus University. In the years 2006-2011 he was a PhD student in Computer Science. His research field was Computer Science applied in Bioinformatcs. He gained experience in Hadoop World building and maintaining a cluster for Allegro. Every day he works with modern high-performance and high-availability technologies, centrally managed in cloud environment. In 2015 he became a Senior Data Engineer.'
+
+piotr.orlowski:
+    name: Piotr Orłowski
+    bio: 'Piotr is an engineer with 17 years of experience in IT. In Allegro IT he is in charge of marketing intelligence department and responsible for providing basics for microservices architecure. He is interested in scalable architecture, performance and likes more functionality than code :)'
+    twitter: nigraspl
+
+bartlomiej.ignasiak:
+    name: Bartłomiej Ignasiak
+    bio: 'At Allegro Group since 2009. At work he is interested in highly scalable architectures, microservices, Cassandra database, all technologies around JVM and all aspects of software creation. After hours he writes games and AI systems. At Allegro, he is a Solutions Architect for the users domain.'
+
+pawel.wieladek:
+    name: Paweł Wielądek
+    bio: 'Paweł works in Allegro as a front-end developer. Modern JavaScript enthusiast, especially ES6 and React. He believes that usability and reliability is as important as appearance and user experience.'
+    twitter: pawelwieladek
+
+rafal.zukowski:
+    name: Rafał Żukowski
+    bio: ''
+
+remigiusz.pospieszynski:
+    name: Remigiusz Pospieszyński
+    bio: ''
+
+arek.osinski:
+    name: Arek Osiński
+    bio: ''
