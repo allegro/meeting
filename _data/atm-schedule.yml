@@ -1,0 +1,120 @@
+item00:
+    title: Śniadanie
+    date: '2016-09-07'
+    timeStart: '09:00'
+    timeEnd: '10:00'
+
+item01:
+    title: Rejestracja
+    date: '2016-09-07'
+    timeStart: '09:30'
+    timeEnd: '10:00'
+
+item02:
+    title: Rozpoczęcie 1-go dnia
+    date: '2016-09-07'
+    timeStart: '10:00'
+    timeEnd: '10:20'
+
+item03:
+    title: Keynote
+    name: Special Guest
+    date: '2016-09-07'
+    timeStart: '10:20'
+    timeEnd: '10:50'
+    abstract:
+
+item04:
+    title: 'Anomaly detection? A gdyby tak wzorować się na tym jak robi to nasz mózg?'
+    name: Bartłomiej Ignasiak
+    date: '2016-09-07'
+    timeStart: '10:50'
+    timeEnd: '11:30'
+    abstract: 'Three sigmas? Holt Winters? …? Jest wiele algorytmów wykrywających anomalie. Jest też wiele ich implementacji. Jedną z nich nosimy w głowie. W każdej sekundzie tworzymy predykcje na temat tego co zobaczymy, usłyszymy, poczujemy. Nasz mózg ciągle porównuje czy to czego oczekiwaliśmy dzieje się naprawdę. Ciągle uczy się co jest normą i błyskawicznie alarmuje o każdym od niej odstępstwie. Podczas prezentacji przyjrzymy się teorii HTM - Jeff-a Hawkinsa, a podczas krótkiego life demo pokaże jak użyć jej implementacji do wykrywania anomalii w prawdziwym działającym systemie.'
+
+item05:
+    title: Liczby eksperckie muszą zginąć
+    name: Adam Dubiel
+    date: '2016-09-07'
+    timeStart: '11:30'
+    timeEnd: '12:10'
+    abstract: 'Słownikowa definicja wyrażenia “liczba ekspercka” powinna brzmieć “nie mam pojęcia co robię”. Mało jest pojęć, których semantyka tak bardzo odbiega od prawdziwego znaczenia. Ile potrzebuję RAMu? Ile CPU? Jak duża powinna być tak kolejka? Ile wątków? Poprawna odpowiedź to: nie wiem, zmierzmy to. Podczas prelekcji chciałbym pokazać jak często w naszej pracy zgadujemy i jak możemy to zgadywanie zastąpić pomiarami. Chciałbym, żebyś po jej wysłuchaniu wiedział co warto mierzyć w typowej mikrousłudze, jakimi narzędziami i jak interpretować wyniki.'
+
+item06:
+    title: Tylko automatyzacja może nas uratować
+    name: Remigiusz Pospieszyński
+    date: '2016-09-07'
+    timeStart: '12:10'
+    timeEnd: '12:50'
+    abstract: 'Nasze systemy rozrastają się praktycznie każdego dnia przez co ich monitoring staje się coraz bardziej skomplikowany. W NOC Grupy Allegro monitorujemy prawie 10.000 maszyn, co jeszcze do niedawna skutkowało zdażeniem, mniej lub bardziej niebezpiecznym, co 30 sekund. Absorbowało to w stu procentach całą jedną osobę (a właściwie etat), przez całą dobę, przez cały tydzień, przez cały rok. Obecnie udało nam się zrzucić większość pracy na automaty, a "monitorujący" stał się "inżynierem". W prezentacji pokażę, jak tego dokonaliśmy, co nam jeszcze zostało do zrobienia i jak będzie wyglądać monitoring w przyszłości.'
+
+item07:
+    title: Lunch
+    date: '2016-09-07'
+    timeStart: '12:50'
+    timeEnd: '13:50'
+
+item08:
+    title: Wyrażenia Regularne / Jak Co Dlaczego
+    name: Tomasz Jackowiak
+    date: '2016-09-07'
+    timeStart: '13:50'
+    timeEnd: '14:10'
+
+item09:
+    title: Gdzie z tym avro?
+    name: Arkadiusz Osiński, Robert Mroczkowski
+    date: '2016-09-07'
+    timeStart: '14:10'
+    timeEnd: '14:50'
+    abstract: 'Każda informacja w naszym ekosystemie powinna być łatwo znajdowalna, ale wymaga to konkretnych rozwiązań technicznych.<br /><br />Co to jest Avro? Jak bardzo potrzebujemy Avro? Co dzięki temu zyskamy? W trakcie prelekcji postaramy się odpowiedzieć na te pytania.<br /><br />Przedstawiona zostanie również droga, którą musimy przebyć, aby móc skorzystać z dobrodziejstw, które niesie za sobą serializacji informacji - zarówno dla analityki jak i developmentu.<br /><br />Pokażemy także, jaka nas czeka przyszłość po takiej inwestycji technologicznej.'
+
+item10:
+    title: Front-end Empire State Building - stan w aplikacji front-endowej
+    name: Paweł Wielądek
+    date: '2016-09-07'
+    timeStart: '14:50'
+    timeEnd: '15:30'
+    abstract: 'React bardzo szybko zdobył uznanie za swoją prostotę. Tej samej zasadzie hołduje Redux, który odseparowuje zarządzanie stanem aplikacji od warstwy prezentacji. Mimo prostoty działania obu narzędzi, samo zaprojektowanie przepływu danych między komponentami nie jest sprawą trywialną. Rozbudowując krok po kroku aplikację front-endową pokażę jakie pułapki czyhają podczas tworzenia komponentów. Porządna dawka React & Redux gwarantowana.'
+
+item11:
+    title: Coffee break
+    date: '2016-09-07'
+    timeStart: '15:30'
+    timeEnd: '15:50'
+
+item12:
+    title: Opbox od A do .de
+    name: Piotr Orłowski, Rafał Żukowski
+    date: '2016-09-07'
+    timeStart: '15:50'
+    timeEnd: '16:30'
+    abstract: 'Jak w rozproszonej architekturze zrobić spójny frontend. Jak postawić stronę w kilka minut i nie angażować przy tym zespołu deweloperskiego. Jak projekt allegro.de wpłynął na rozwój Opbox-a i jak Opbox wpłynął na allegro.de. Przytoczymy również kilka ciekawostek i trochę historii Opbox-a.'
+
+item13:
+    title: Offline nie gryzie
+    name: Mariusz Strzelecki
+    date: '2016-09-07'
+    timeStart: '16:30'
+    timeEnd: '17:10'
+    abstract: 'Ile razy zdarzyło Ci się napisać mikrousługę, która raz na jakiś czas importuje dane z zewnątrz, eksportuje je albo albo kilka razy dziennie na żądanie przeczesuje bazę i generuje olbrzymie raporty? Ile razy dodałeś `java -jar` do crona na wirtualce, po cichu licząc na to, że zawsze się włączy?<br /><br />Świat usługowy nie jest idealny do każdego rozwiązania.<br /><br />W naszym mikroserwisoym świecie generujemy olbrzymie ilości danych, które po szynie spływają prosto na Hadoopa. Na ich podstawie już teraz budujemy raporty, analizy, mailingi, feedy produktowe, sitemapy i zrzuty stanu usług. Wszystko to offline, bez potrzeby zajmowania ciągłych zasobów obliczeniowych, konieczności kombinowania z redundancją, dostawiania baz danych do trzymania tymczasowego stanu i zastanawiania się “hej, a co jeśli zgubimy event?”.<br /><br />Podczas prezentacji przestawię zalety i wady budowania rozwiązań w offline`owym świecie w oparciu o dotychczasowego realizacje.'
+
+item14:
+    title: Architektura mikrousługowa Allegro - 3 lata po Rubikonie
+    name: Mateusz Gajewski
+    date: '2016-09-07'
+    timeStart: '17:10'
+    timeEnd: '17:50'
+    abstract: 'W ciągu ostatnich 3 lat Allegro przeżyło jedną z największych rewolucji technologicznych w swojej historii. W prezentacji tej postaram się pokazać historię inicjatywy Rubikon, to gdzie byliśmy a gdzie jesteśmy teraz, jak wygląda nasza obecna architektura oraz wnioski płynące z całej transformacji.'
+
+item15:
+    title: Zakończenie 1-go dnia
+    date: '2016-09-07'
+    timeStart: '17:50'
+    timeEnd: '18:00'
+
+item16:
+    title: After Party
+    date: '2016-09-07'
+    timeStart: '20:00'
+    timeEnd: '02:00'
