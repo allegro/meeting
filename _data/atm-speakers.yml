@@ -1,25 +1,25 @@
 adam.dubiel:
     name: Adam Dubiel
-    bio: 'Adam is the library guy - both when it comes to books and designing reusable software components with minimal dependencies, maximal usefulness and user friendly API. At Allegro he leads the team responsible for creating internal services-for-services and tools that make development of microservices easier.'
+    bio: 'Lider zespołu developerskiego odpowiedzialnego za narzędzia ułatwiające tworzenie mikrousług w Allegro. Po godzinach czyta, zwiedza świat dzieki naleganiom lepszej połówki i stara się gonić świat IT.'
     twitter: dubieladam
 
 mateusz.gajewski:
     name: Mateusz 'Serafin' Gajewski
-    bio: 'Mateusz is a solutions architect responsible for financial and payments systems. His main areas of research interest are: scalable, distributed computing in cloud environments, reactive programming and failure resilience.'
+    bio: 'Człowiek, który lubi wiedzieć :)'
     twitter: wendigo
 
 tomasz.jackowiak:
     name: Tomasz Jackowiak
-    bio: '"Been there, done that", former PHP programmer, scrum master, product owner, technical owner of marketplace platform, technical leader. Software engineer working on a search engine at Allegro. After working hours - boardsports lover, Knobel Klack pro player, traveler.'
+    bio: 'Jestem kef. Lubię dzielić się z innymi tym co mnie fascynuje. Czasem będzie to sposób na skrócenie wyrażenia regularnego o kilka znaków, a czasem szybki sposób na zrobienie salta. Lubię też naleśniki.'
     twitter: kevorin
 
 mariusz.strzelecki:
     name: Mariusz Strzelecki
-    bio: 'A software developer with 5+ years of professional experience. Now working as a Senior Data Engineer at Allegro Group, developing tools that support internal Big Data ecosystem and contributing to Open Source.'
+    bio: 'Inżynier danych, entuzjasta (py)Sparka. W Allegro od 2010.'
 
 robert.mroczkowski:
     name: Robert Mroczkowski
-    bio: 'A 2006 Master’s graduate in Computer Science at Nicolaus Copernicus University. In the years 2006-2011 he was a PhD student in Computer Science. His research field was Computer Science applied in Bioinformatcs. He gained experience in Hadoop World building and maintaining a cluster for Allegro. Every day he works with modern high-performance and high-availability technologies, centrally managed in cloud environment. In 2015 he became a Senior Data Engineer.'
+    bio: 'Ostatnie 4 lata spędził w zespole infrastruktury w Grupie Allegro. Przez większość czasu zdobywał doświadczenie z technologiami z obszaru BigData budując i utrzymując ekosystem Hadoopa. Aktualnie pomaga przy pracach nad data governance w Allegro. W przyszłości wicemistrz Torunia w hokej.'
 
 piotr.orlowski:
     name: Piotr Orłowski
@@ -28,11 +28,11 @@ piotr.orlowski:
 
 bartlomiej.ignasiak:
     name: Bartłomiej Ignasiak
-    bio: 'At Allegro Group since 2009. At work he is interested in highly scalable architectures, microservices, Cassandra database, all technologies around JVM and all aspects of software creation. After hours he writes games and AI systems. At Allegro, he is a Solutions Architect for the users domain.'
+    bio: 'Obecnie Team manager/product owner, wcześniej developer i architekt. W Allegro odpowiedzialny za systemy monitoringu. Jego główne zainteresowania to sztuczna inteligencja oraz przetwarzanie dużych zbiorów danych w systemach rozproszonych.'
 
 pawel.wieladek:
     name: Paweł Wielądek
-    bio: 'Paweł works in Allegro as a front-end developer. Modern JavaScript enthusiast, especially ES6 and React. He believes that usability and reliability is as important as appearance and user experience.'
+    bio: 'Front-end developer w Grupie Allegro. Z Reactem za pan brat od 2 lat. Dba o to, by koledzy z zespołu za bardzo nie odlecieli w świat zero-jedynkowy i końcowy produkt był zarówno użyteczny, jak i estetyczny. Prowadzi szkolenia z ES6 i React.js.'
     twitter: pawelwieladek
 
 rafal.zukowski:
@@ -41,8 +41,8 @@ rafal.zukowski:
 
 remigiusz.pospieszynski:
     name: Remigiusz Pospieszyński
-    bio: ''
+    bio: 'Młodszy Inżynier Systemów Monitoringu, w Grupie Allegro od 1.5 roku. Obecnie zajmuje się automatyzacją procesów w teamie DevOpsowym zespołu NOC.'
 
-arek.osinski:
-    name: Arek Osiński
-    bio: ''
+arkadiusz.osinski:
+    name: Arkadiusz Osiński
+    bio: 'Pracuje w Allegro jako starszy inżynier danych. Od początku związany z budowanie oraz utrzymaniem ekosystemu Hadoopa w Allegro. Poprzednio sprawdzał swoje siły w zarządzaniu środowiskami bazodanowymi. Lubi spędzać wolny czas na rowerze.'
