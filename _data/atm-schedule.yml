@@ -55,11 +55,13 @@ item07:
     timeEnd: '13:50'
 
 item08:
-    title: Wyrażenia Regularne / Jak Co Dlaczego
+    title: Wyrażenia Regularne
     name: Tomasz Jackowiak
     date: '2016-09-07'
     timeStart: '13:50'
     timeEnd: '14:10'
+    abstract: 'Jeden z najnudniejszych tematów na prezentację. Wiem. Jednocześnie moje marzenie i wyzwanie pokazania go w sposób powstrzymujący od zapadnięcia w drzemkę.
+Spotykasz je często, są brzydkie, niezrozumiałe i nie działają tak jak byśmy chcieli. Pomijane w dyskusjach i na CV. Drzemie w nich jednak wielka moc. Czas ją poznać i zaprząc do roboty'
 
 item09:
     title: Gdzie z tym avro?
