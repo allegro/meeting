@@ -8,7 +8,7 @@
     <!-- OG TAGS -->
     <meta property="og:site_name" content="{{ page.title }}"/>
     <meta property="og:title" content="{{ page.title }}"/>
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+    <meta property="og:url" content="{{ site.url }}"/>
     <meta property="og:type" content="site"/>
     <meta property="og:image" content="{{ site.url }}/img/atm9/atm9-logo.png"/>
     {% if page.title %}
@@ -18,7 +18,7 @@
     <meta property="article:publisher" content="https://www.facebook.com/allegro.tech"/>
     {% endif %}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ site.url }}">
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,700&amp;subset=latin-ext,latin' rel='stylesheet' type='text/css'>
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./css/style.css">

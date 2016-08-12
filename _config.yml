@@ -9,7 +9,7 @@ menu: false
 description: "We use Open Source solutions on a daily basis here at Allegro Group. Why not work on our karma and give something in return? Welcome to our open source technology blog."
 name: allegro.tech blog
 baseurl: ""
-url: "http://allegro.tech"
+url: "http://allegro.tech/meeting/"
 twitter_username: AllegroTechBlog
 github_username:  allegro
 facebook_username: allegro.tech
