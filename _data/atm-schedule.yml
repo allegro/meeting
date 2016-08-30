@@ -102,7 +102,11 @@ item13:
     date: '2016-09-07'
     timeStart: '17:00'
     timeEnd: '17:40'
-    abstract: 
+    abstract: 'Podczas tej prezentacji dowiemy się, jak można poprawić doświadczenie naszych użytkowników i zmniejszyć koszt pracy nad aplikacjami mobilnymi za pomocą API dostosowanego do ekranów.
+
+Przyjrzymy się temu, jakie API jest łatwo konsumowalne przez aplikacje mobilne i jaki ma to wpływ na rozwój tych produktów w połączeniu z długim procesem wydawniczym.
+
+Mamy nadzieję, że wyjdziecie z wiedzą o tym, jak najlepiej spożytkować swój czas i umiejętności w zespołach.'
 
 item14:
     title: Architektura mikrousługowa Allegro - 3 lata po Rubikonie
@@ -121,5 +125,5 @@ item14:
 item15:
     title: After Party
     date: '2016-09-07'
-    timeStart: '20:00'
+    timeStart: '20:30'
     timeEnd: '02:00'
