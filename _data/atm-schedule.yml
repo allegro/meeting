@@ -64,7 +64,7 @@ item08:
     timeEnd: '14:40'
     abstract: 'Każda informacja w naszym ekosystemie powinna być łatwo znajdowalna, ale wymaga to konkretnych rozwiązań technicznych.<br /><br />Co to jest Avro? Jak bardzo potrzebujemy Avro? Co dzięki temu zyskamy? W trakcie prelekcji postaramy się odpowiedzieć na te pytania.<br /><br />Przedstawiona zostanie również droga, którą musimy przebyć, aby móc skorzystać z dobrodziejstw, które niesie za sobą serializacji informacji - zarówno dla analityki jak i developmentu.<br /><br />Pokażemy także, jaka nas czeka przyszłość po takiej inwestycji technologicznej.'
 
-item9:
+item09:
     title: Front-end Empire State Building - stan w aplikacji front-endowej
     name: Paweł Wielądek
     date: '2016-09-07'
