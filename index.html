@@ -139,3 +139,18 @@ description: Allegro Tech Meeting to coroczne spotkanie wszystkich pracowników 
 		</ul>
 	</div>
 </section>
+
+
+
+<section id="photos" class="photos">
+    <div class="content">
+        <h3>Media</h3>
+
+        <div class="gallery">
+        {% for i in (1..98) %}
+             <a href="./img/photos/{{ i }}.jpg"><img alt="ATM8 - image {{ i }}" src="./img/photos/thumb/{{ i }}.jpg"></a>
+        {% endfor %}
+		</div>
+	</div>
+</section>
+
